@@ -1,0 +1,1 @@
+This is my first python project using Tkinter module in which i have designed a basic clock.
